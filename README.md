@@ -73,7 +73,7 @@ Embeddings are produced by Xenova/all-MiniLM-L6-v2 via @xenova/transformers (ONN
 ## Installation
 
 ```bash
-git clone https://github.com/HimanshuGupta2512/codebase-contextualizer-CLI-tool-
+git clone <repository-url>
 cd codebase-contextualizer-CLI-tool-
 npm install
 ```
