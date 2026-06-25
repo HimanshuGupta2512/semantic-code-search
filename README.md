@@ -74,7 +74,7 @@ Embeddings are produced by Xenova/all-MiniLM-L6-v2 via @xenova/transformers (ONN
 
 ```bash
 git clone <repository-url>
-cd codebase-contextualizer-CLI-tool-
+cd semantic-code-search
 npm install
 ```
 
