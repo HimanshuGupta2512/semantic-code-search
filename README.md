@@ -87,7 +87,7 @@ npm install
 node index.js index <path>
 
 # Search with a natural language query
-node index.js search <path> "<query>" [--top <n>]
+node index.js search "<query>" <path> [-n <limit>]
 
 # Check index status
 node index.js status <path>
